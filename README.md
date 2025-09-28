@@ -93,7 +93,7 @@ Si no se utiliza el almacén, cada turno sigue este orden:
 
 ---
 
-##✨ Aprendizaje
+## ✨ Aprendizaje
 
 Este proyecto me permitió:
 
