@@ -104,3 +104,11 @@ Este proyecto me permitió:
 5. Integrar la gestión de archivos de configuración externos (tablero y secuencia).
 
 ---
+
+## 👥 Autores
+
+- Proyecto desarrollado en colaboración por:
+
+  - Marcos Alonso Ulloa
+
+  - Marcau Cámara Vicente
