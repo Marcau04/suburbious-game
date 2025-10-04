@@ -24,7 +24,10 @@ Se inspira en mecánicas de juegos tipo *Candy Crush*, pero incorpora elementos 
     - **3 o más "3" juntos colapsan en un `4` (hotel).**  
   - **4 → Hotel**  
   - **X → Escombro**  
-    - Celda bloqueada que no se puede eliminar.  
+    - Celda bloqueada que no se puede eliminar.
+  - **W → Wick**
+    - Utilizado para eliminar una ficha que se encuentre en el tablero
+    - No se puede utilizar en celdas vacías 
 
 - El objetivo del juego es **aguantar el mayor número de turnos y alcanzar la máxima puntuación posible**.  
 
